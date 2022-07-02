@@ -1,10 +1,10 @@
 <?php
 class Db{
 		
-	private $dbHost     = "127.0.0.1";
-    private $dbUsername = "root";
-    private $dbPassword = "";
-    private $dbName     = "turadiop_restaurant_new";
+	private $dbHost     = "sql213.byethost9.com";
+    private $dbUsername = "b9_32075627";
+    private $dbPassword = "95831mqd";
+    private $dbName     = "b9_32075627_restaurant_new";
 	protected $p; 
 	protected $dbh; 
 	
